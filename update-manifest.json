@@ -1,0 +1,11 @@
+{
+  "product": "KB-GIFTJAR",
+  "version": "1.4.3.7",
+  "downloadUrl": "https://github.com/kha-beo/kb-giftjar-updates/releases/download/v1.4.3.7/KB-GIFTJAR-1.4.3.7-update.zip",
+  "sha256": "15D7CDEA53051E8750C199B2F34796F544BE7478621114C5FEDE8D707067BBD6",
+  "size": 69883011,
+  "publishedUtc": "2026-09-09T14:43:00Z",
+  "mandatory": false,
+  "notes": "Sua ket noi TikTok HTTP 400; kenh cap nhat rieng kha-beo. Giu nguyen khoa cap tai khoan.",
+  "signature": "CqislTJ_yQCdbLfwHtZVw_KNzNSndkvH98hsS-eSD6pxzhYy_B4xDc3IF4fgwOqz0YUpo9k8GbmVsKsNSSrJJQ"
+}
